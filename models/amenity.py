@@ -5,5 +5,5 @@ from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """Class representing a Amenity."""
+    """Class representing a Amenity (str)"""
     name = ""
